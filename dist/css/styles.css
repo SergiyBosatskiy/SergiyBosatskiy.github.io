@@ -100,6 +100,8 @@ canvas {
     padding-top: 120px;
     font-family: "Sensa Wild Line Fill";
     font-size: 1.2rem;
+    line-height: 1.2em;
+    letter-spacing: 1px;
 }
 
 .typed-cursor{
@@ -111,6 +113,10 @@ canvas {
     position: absolute;
     top: 700px;
     left: 200px;
+}
+
+span{
+
 }
 
 
